@@ -1,0 +1,11 @@
+{
+  "name": "tessel-login",
+  "version": "0.0.0",
+  "description": "",
+  "main": "rfid.js",
+  "author": "Edgar Suarez",
+  "dependencies": {
+    "rfid-pn532": "*",
+    "pubnub": "*"
+  }
+}
